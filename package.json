@@ -1,7 +1,7 @@
 {
     "name": "Nocelium-Launcher",
     "preductname": "Nocelium Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Minecraft pour le serveur Nocelium",
     "main": "src/app.js",
     "author": {
